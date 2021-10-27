@@ -1,3 +1,5 @@
+--COVID DATA EXPLORATION AND VISUALIZATION-- **
+
 SELECT *
 FROM PortfolioProject..COVIDdeaths
 
